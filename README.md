@@ -1,4 +1,4 @@
-#Quy Nhon AI Hackathon Challenge Smart Menu
+# Quy Nhon AI Hackathon Challenge Smart Menu
 
 ## RUN API
 ```
