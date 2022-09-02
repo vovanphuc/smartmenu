@@ -8,7 +8,7 @@ python api.py
 ## TEST API
 
 ```
-python api.py
+python test_api.py
 ```
 
 ## Team:
