@@ -1,6 +1,13 @@
 # Quy Nhon AI Hackathon Challenge Smart Menu
 
-## RESULTS:
+## DEMO:
+
+### input:
+<p align="center">
+    <img src="images/098.jpeg">
+</p>
+### output:
+
 ```json
 {
     "image_name": "098.jpeg",
