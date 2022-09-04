@@ -1,6 +1,6 @@
 # Quy Nhon AI Hackathon Challenge Smart Menu
 
-mô hình detection và recognition được huấn luyện bằng [PPOCRv3](https://github.com/PaddlePaddle/PaddleOCR) với 1 vài thay đổi để đạt kết quả tốt cho bài toán, dữ liệu trong bài được sử dụng 100% là dữ liệu synthtext với corpus là chủ đề về ẩm thực. Ngoài ra để sửa các lỗi chính tả (chủ yếu là dấu câu) team còn sử dụng [SymSpell](https://github.com/wolfgarbe/SymSpell)
+mô hình detection và recognition được huấn luyện bằng [PPOCRv3](https://github.com/PaddlePaddle/PaddleOCR) với 1 vài thay đổi để đạt kết quả tốt cho bài toán, dữ liệu trong bài được sử dụng 100% là dữ liệu synthtext với corpus là chủ đề về ẩm thực. Ngoài ra để sửa các lỗi chính tả (chủ yếu là dấu câu) team còn sử dụng [SymSpell](https://github.com/wolfgarbe/SymSpell). Vì cuộc thi có giới hạn về thời gian inference trên CPU nên team quyết định sử dụng rule based để mapping giá và tên món ăn, và sử dụng từ điển để dịch tên món ăn từ tiếng Việt sang tiếng Anh. 
 
 ## DEMO:
 
