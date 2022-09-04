@@ -1,5 +1,7 @@
 # Quy Nhon AI Hackathon Challenge Smart Menu
 
+mô hình detection và recognition được huấn luyện bằng [PPOCRv3](https://github.com/PaddlePaddle/PaddleOCR) với 1 vài thay đổi để đạt kết quả tốt cho bài toán, dữ liệu trong bài được sử dụng 100% là dữ liệu synthtext với corpus là chủ đề về ẩm thực. Ngoài ra để sửa các lỗi chính tả (chủ yếu là dấu câu) team còn sử dụng [SymSpell](https://github.com/wolfgarbe/SymSpell)
+
 ## DEMO:
 
 ### input:
