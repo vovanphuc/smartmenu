@@ -143,3 +143,6 @@ python test_api.py
    [Võ Văn Phúc](https://github.com/vovanphuc)
 
    [Nguyễn Văn Thiều](https://github.com/theluckygod)
+
+## Contact:
+    Nếu bạn có bất kỳ vấn đề gì hoặc có các bài toán liên quan đến OCR cần giải quyết có thể liên hệ với team mình qua email: vovanphuc100598@gmail.com
